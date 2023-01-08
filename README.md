@@ -8,7 +8,7 @@ I'm an avid Junior Developer with 2 years of experience. Am very much obsessed w
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [josephukwenya.ng@gmail.com](mailto:josephukwenya.ng@gmail.com)
-* 🧠  I'm learning React and Node.js
+* 🧠  I'm currently learning React and Node.js
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  Am keen to learning new tech
 
