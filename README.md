@@ -1,33 +1,22 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joseph Ukwenya
-======================================================================================================================================
-
-Junior Software Engineer
-------------------------
-
-I'm an avid Junior Developer with 2 years of experience. Am very much obsessed with coding and love problems-solving. Recently, I started a course training on Full Stack Development with FreeCodeCamp to level up my skills.
-
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [josephukwenya.ng@gmail.com](mailto:josephukwenya.ng@gmail.com)
-* 🧠  I'm currently learning React and Node.js
-* 🤝  I'm open to collaborating on Interesting projects
-* ⚡  Am keen to learning new tech
-
-### Skills
+<h2 align="center">Hi there 👋, I'm Joseph!</h2>
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-</p>
+A software web developer with 3years of experience. I develop scalable and efficient apps using best practices. Skilled in FrontEnd Technologies✍️ as React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub, and Backend Technologies using MERN STACK (Nodejs, Express, React, MongoDB).
 
+Apart from my professional journey, I am obsessed📝 and enthusiastic to learn new tech. I have created few projects that is scalable and efficient and have it deployed.
 
-### Socials
+Also, I love the idea of passing knowledge on. So I decided to start my YouTube channel in 2023 to talk about Tech and administer coding lessons.
 
-<p align="left"> <a href="http://www.instagram.com/josepehukwenya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/josephukwenya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://www.stackoverflow.com/users/josephukwenya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+Skills-
+Strong proficiency in JavaScript and new ES6 features
+In-depth understanding of React.js and its core principles
+Knowledge of server-side rendering 
+Familiarity with RESTful APIs
+
+Good Understanding with common front-end development tools such as Babel, Webpack, NPM, yarn etc.
+Ability to understand business requirements and translate them into technical requirements
+
+Tools-
+ · JavaScript · Node · Express · React · MongoDB · 
+
+🙋‍♂️ 𝗖onnect: josephukwenya.ng@gmail.com
