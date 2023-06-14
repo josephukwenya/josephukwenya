@@ -5,7 +5,7 @@ Hi, My name is Joseph
 A Web Developer & Instructor
 -------------------------------------
 
-I have 3 years of experience and I am a continuous learner. I enjoy working and networking with other devs and always enjoy collaborating on projects.
+I have 3 years of experience and I am a continuous learner. I love networking, and collaborating on projects. On top of that, I am learnable and teachable.
 
 * 🌍  I'm based in Lagos, Nigeria
 <!-- * 🖥️  See my portfolio at [Portfolio](http://josephukwenya.github.io/portfolio/) -->
