@@ -2,7 +2,7 @@
 Hi, am Joseph Ukwenya
 ====================================================================================================================================
 
-A Web Developer & Instructor
+A Web Developer & Instructor 
 -------------------------------------
 
 I have 3 years of experience and I am a continuous learner. I love networking, and collaborating on projects. On top of that, I am learnable and teachable.
