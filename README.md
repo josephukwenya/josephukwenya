@@ -10,7 +10,7 @@ I have 3 years of experience and I am a continuous learner. I love networking, a
 * 🌍  I'm based in Lagos, Nigeria
 <!-- * 🖥️  See my portfolio at [Portfolio](http://josephukwenya.github.io/portfolio/) -->
 * ✉️  You can contact me at [josephukwenya.ng@gmail.com](mailto:josephukwenya.ng@gmail.com)
-* 🚀  I'm currently interviewing with App Academ
+* 🚀  I'm currently serving as a in Lagos State (NYSC)
 * 🧠  I'm focusing more on Backend
 * 🤝  I'm open to collaborating on Nodejs projects
 * ⚡  I love playing the piano
