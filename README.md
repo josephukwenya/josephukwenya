@@ -2,17 +2,14 @@
 Hi, am Joseph Ukwenya
 ====================================================================================================================================
 
-A Web Developer & Instructor 
--------------------------------------
-
-I have 3 years of experience and I am a continuous learner. I love networking, and collaborating on projects. On top of that, I am learnable and teachable.
+Sofware developer with 3 years of experience. I love networking, and collaborating on projects. On top of that, I am learnable and teachable.
 
 * 🚀  I'm currently serving in Lagos State (NYSC)
-* ⚡  I love playing the piano
+* 🤝  I'm open to collaborating on Nodejs & React projects
 * 🌍  I'm based in Lagos, Nigeria
-* 🧠  I'm focusing more on Backend
-* 🤝  I'm open to collaborating on Nodejs projects
+* ⚡  I love playing the piano
 * ✉️  You can contact me at [josephukwenya.ng@gmail.com](mailto:josephukwenya.ng@gmail.com)
+<!--* 🧠  I'm focusing more on Backend -->
 <!-- * 🖥️  See my portfolio at [Portfolio](http://josephukwenya.github.io/portfolio/) -->
 
 
