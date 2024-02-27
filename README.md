@@ -2,7 +2,7 @@
 Hi, am Joseph Ukwenya
 ====================================================================================================================================
 
-Sofware developer with 3 years of experience. I love networking, and collaborating on projects. On top of that, I am learnable and teachable.
+Sofware developer with 2 years of experience. I love networking, and collaborating on projects. On top of that, I am learnable and teachable.
 
 * 🚀  I'm currently serving in Lagos State (NYSC)
 * 🤝  I'm open to collaborating on Nodejs & React projects
