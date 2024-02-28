@@ -2,9 +2,9 @@
 Hi, am Joseph Ukwenya
 ====================================================================================================================================
 
-Sofware developer with 2 years of experience. I love networking, and collaborating on projects. On top of that, I am learnable and teachable.
+Seeking for a software engineering intern position starting by March 2024. I'm teachable and learnable.
 
-* 🚀  I'm currently serving in Lagos State (NYSC)
+* 🚀  I'm currently serving in Lagos State (NYSC) - My passing out parade is March.
 * 🤝  I'm open to collaborating on Nodejs & React projects
 * 🌍  I'm based in Lagos, Nigeria
 * ⚡  I love playing the piano
