@@ -1,5 +1,5 @@
 
-Hi, am Joseph Ukwenya
+Hi, I'm Joseph Ukwenya
 ====================================================================================================================================
 
 Seeking for a software engineering intern position starting May 2024. I'm teachable and learnable.
