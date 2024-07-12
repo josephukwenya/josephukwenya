@@ -1,12 +1,12 @@
-Hi, I'm Joseph Ukwenya.
+### Hi, I'm Joseph Ukwenya.
 
 Aspiring software engineer seeking an intern position starting July 2024. Enthusiastic about learning and growing in the field.
 
-🤝 Open to Collaborations: Interested in Node.js and React projects.
-🌍 Location: Based in Lagos, Nigeria.
-⚡ Hobbies: Enjoy playing the piano when not coding.
-✉️ Contact: josephukwenya.ng@gmail.com
-🧠 Focus Area: Specializing in backend development.
+*  🤝 Open to Collaborations: Interested in Node.js and React projects.
+*  🌍 Location: Based in Lagos, Nigeria.
+*  ⚡ Hobbies: Enjoy playing the piano when not coding.
+*  ✉️ Contact: josephukwenya.ng@gmail.com
+*  🧠 Focus Area: Specializing in backend development.
 <!-- * 🖥️  See my portfolio at [Portfolio](http://josephukwenya.github.io/portfolio/) -->
 
 ### Tech Stacks
@@ -17,7 +17,7 @@ Aspiring software engineer seeking an intern position starting July 2024. Enthus
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" color="#fff" width="36" height="36" alt="Express" /></a>
 
  ### Qualities
 
