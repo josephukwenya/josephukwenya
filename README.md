@@ -1,13 +1,12 @@
-Hi, I'm Joseph Ukwenya
-====================================================================================================================================
+Hi, I'm Joseph Ukwenya.
 
-Seeking for a software engineering intern position starting June 2024. I'm teachable and learnable.
+Aspiring software engineer seeking an intern position starting July 2024. Enthusiastic about learning and growing in the field.
 
-* 🤝  I'm open to collaborating on Nodejs & React projects
-* 🌍  I'm based in Lagos, Nigeria
-* ⚡  I love playing the piano when I'm not coding
-* ✉️  You can contact me at [josephukwenya.ng@gmail.com](mailto:josephukwenya.ng@gmail.com)
-<!--* 🧠  I'm focusing more on Backend -->
+🤝 Open to Collaborations: Interested in Node.js and React projects.
+🌍 Location: Based in Lagos, Nigeria.
+⚡ Hobbies: Enjoy playing the piano when not coding.
+✉️ Contact: josephukwenya.ng@gmail.com
+🧠 Focus Area: Specializing in backend development.
 <!-- * 🖥️  See my portfolio at [Portfolio](http://josephukwenya.github.io/portfolio/) -->
 
 ### Tech Stacks
@@ -22,8 +21,8 @@ Seeking for a software engineering intern position starting June 2024. I'm teach
 
  ### Qualities
 
+* Team player
 * Leadership
 * Problem solving
 * Communication
-* Team player
  
