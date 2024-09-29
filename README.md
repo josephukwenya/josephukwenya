@@ -1,6 +1,6 @@
 ### Hi, I'm Joseph Ukwenya.
 
-Aspiring software engineer seeking an intern position starting August 2024. Enthusiastic about learning and growing in the field.
+Aspiring software engineer seeking an intern position starting October 2024. Enthusiastic about learning and growing in the field.
 
 *  🤝 Open to Collaborations: Interested in Node.js and React projects.
 *  🌍 Location: Based in Lagos, Nigeria.
