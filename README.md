@@ -1,8 +1,7 @@
 ### Hi, I'm Joseph Ukwenya.
 
-Aspiring software engineer seeking an intern position starting October 2024. Enthusiastic about learning and growing in the field.
+Backend Developer and Quality Assurance Engineer. Enthusiastic about learning and growing in the field and open to collaboration and open-source projects.
 
-*  🤝 Open to Collaborations: Interested in Node.js and React projects.
 *  🌍 Location: Based in Lagos, Nigeria.
 *  ⚡ Hobbies: Enjoy playing the piano when not coding.
 *  ✉️ Contact: josephukwenya.ng@gmail.com
