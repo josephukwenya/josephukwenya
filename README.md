@@ -1,6 +1,6 @@
 ### Hi, I'm Joseph Ukwenya.
 
-Backend Developer and Quality Assurance Engineer. Enthusiastic about learning and growing in the field and open to collaboration and open-source projects.
+Backend Developer with 4 years of experience. Enthusiastic about learning and growing in the field and open to collaboration and open-source projects.
 
 *  🌍 Location: Based in Lagos, Nigeria.
 *  ⚡ Hobbies: Enjoy playing the piano when not coding.
