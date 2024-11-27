@@ -1,9 +1,9 @@
 ### Hi, I'm Joseph Ukwenya.
 
-Backend Developer with 4 years of experience. Enthusiastic about learning and growing in the field and open to collaboration and open-source projects.
+Backend Developer with 4 years of experience. When I'm not coding, I love to play piano.
 
-*  🌍 Location: Based in Lagos, Nigeria.
-*  ⚡ Hobbies: Enjoy playing the piano when not coding.
+*  🌍 Location: Lagos, Nigeria.
+*  ⚡ Hobbies: Coding | Researching | Playing Piano.
 *  ✉️ Contact: josephukwenya.ng@gmail.com
 *  🧠 Focus Area: Specializing in backend development.
 <!-- * 🖥️  See my portfolio at [Portfolio](http://josephukwenya.github.io/portfolio/) -->
