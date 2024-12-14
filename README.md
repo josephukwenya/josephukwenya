@@ -10,8 +10,8 @@
 
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" 
-       style="filter: invert(100%) brightness(100%)" 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
+       style="background-color: #fff; filter: invert(100%) hue-rotate(180deg) brightness(100%) contrast(100%)"
        width="36" height="36" alt="Express" />
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
