@@ -1,5 +1,5 @@
 ### Hi, I'm Joseph Ukwenya.
-### A Dedicated Software Engineer with 4 years of experience. When I'm not coding, I love to play piano & Cooking.
+### A Dedicated Software Engineer with 4 years of experience. When I'm not coding, I love to play piano, cook, and research.
  
 *  🌍 Location: Lagos, Nigeria.
 *  ⚡ Hobbies: Coding | Researching | Playing Piano.
