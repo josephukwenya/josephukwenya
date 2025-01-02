@@ -1,4 +1,6 @@
-### Dedicated Software Engineer with 4 years of experience. I possess a track record of hitting the ground up and running. When I'm not coding, I love playing piano, cooking, and researching.
+### Hi, I'm Joseph Ukwenya.
+
+## Dedicated Software Engineer with 4 years of experience. I possess a track record of hitting the ground up and running. When I'm not coding, I love playing piano, cooking, and researching.
  
 *  🌍 Location: Lagos, Nigeria.
 *  ⚡ Hobbies: Coding | Researching | Playing Piano.
