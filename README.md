@@ -35,13 +35,10 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
 </a>
-<a href="https://swagger.io/" target="_blank" rel="noreferrer">
+<!-- <a href="https://swagger.io/" target="_blank" rel="noreferrer">
   <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swagger-colored.svg](https://www.svgrepo.com/show/354420/swagger.svg)"
        width="36" height="36" alt="Swagger" />
-</a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
-</a>
+</a> -->
 
 
  ### Qualities
