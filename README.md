@@ -16,7 +16,7 @@
   </div>
 <!--   <img src="https://komarev.com/ghpvc/?username=MYElmasry&style=flat-square&color=blue" alt="Profile Views Badge"/> -->
   <h1>
-    Hey There
+    Hi, I'm Joseph.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand"/>
   </h1>
 </div>
