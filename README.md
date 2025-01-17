@@ -4,11 +4,11 @@
     <a href="https://www.linkedin.com/in/josephukwenya/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/josephukweny_">
+    <a href="https://twitter.com/josephukwenya_">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://www.facebook.com/josephukwenya.ng">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <a href="https://www.instagram.com/josephukwenya">
+      <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
 <!--     <a href="https://leetcode.com/josephukwenya/">
       <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=orange" alt="LeetCode Badge"/>
