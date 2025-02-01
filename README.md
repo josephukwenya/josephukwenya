@@ -28,7 +28,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Software Engineer with 3 years of working experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Engineer Icon"/> from Lagos, Nigeria.
+Software Engineer with 3 years of working experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Engineer Icon"/> from Lagos, Nigeria.
 
 - :telescope: I’m currently working as a Backend Engineer and contributing to building web applications.
 
