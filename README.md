@@ -10,9 +10,9 @@
     <a href="https://www.instagram.com/josephukwenya">
       <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-<!--     <a href="https://leetcode.com/josephukwenya/">
+    <a href="https://leetcode.com/josephukwenya/">
       <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=orange" alt="LeetCode Badge"/>
-    </a> -->
+    </a>
   </div>
 <!--   <img src="https://komarev.com/ghpvc/?username=MYElmasry&style=flat-square&color=blue" alt="Profile Views Badge"/> -->
   <h1>
