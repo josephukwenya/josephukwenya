@@ -16,7 +16,7 @@
   </div>
 <!--   <img src="https://komarev.com/ghpvc/?username=MYElmasry&style=flat-square&color=blue" alt="Profile Views Badge"/> -->
   <h1>
-    Hi, I'm Joseph.
+    Joseph Ukwenya.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand"/>
   </h1>
 </div>
@@ -28,11 +28,11 @@
 ---
 
 ### :man_technologist: About Me :
-Software Engineer with 3 years of working experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Engineer Icon"/> from Lagos State, Nigeria.
+Hi there! I am **Joseph Ukwenya**, a Backend Engineer with 3+ years of experience building scalable, efficient web applications. I'm passionate about creating reliable systems and contributing to meaningful open-source projects. 🌱
 
-- :telescope: I’m currently working as a Backend Engineer and contributing to building web applications.
+I currently specialize in **Node.js**, **Express**, and **JavaScript/TypeScript**. I’m also exploring cloud-based solutions and working on improving my DevOps skills with **Docker** and **CI/CD pipelines**.
 
-- :seedling: I'm open to contributing and collaborating on open-source projects. Feel free to reach out.
+🔭 I’m currently working on [NCDF API](https://github.com/josephukwenya/ncdfapp), a robust API for flutter mobile app to manage investor's portfolio.
 
 - :mailbox: How to reach me:  
   [![Linkedin Badge](https://img.shields.io/badge/-josephukwenya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josephukwenya/)
@@ -47,11 +47,7 @@ Software Engineer with 3 years of working experience <img src="https://media.gip
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 &nbsp;
-<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp; -->
-<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp; -->
-<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" .itle=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp; -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp; -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -60,11 +56,4 @@ Software Engineer with 3 years of working experience <img src="https://media.gip
 </div>
 
 ---
-
- ### Qualities
-
-* Leadership
-* Team player
-* Problem-solving
-* Excellent Communication Skills
  
