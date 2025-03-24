@@ -1,5 +1,5 @@
 ### :man_technologist: About Me :
-Hi there! I am **Joseph Ukwenya**, a Backend Engineer with few years of experience building scalable, and efficient web applications. I'm passionate about creating reliable systems and contributing to meaningful open-source projects. 🌱
+Hi there! I am **Joseph Ukwenya**, a Backend Engineer with few years of experience building scalable, and efficient web applications. I'm passionate about creating reliable systems and contributing to meaningful open-source projects. 🌱 
 
 I currently specialize in **Node.js**, **Express**, and **JavaScript/TypeScript**. I’m also exploring cloud-based solutions and working on improving my DevOps skills with **Docker** and **CI/CD pipelines**.
 
