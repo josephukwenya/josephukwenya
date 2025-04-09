@@ -2,10 +2,6 @@ Hi there! I am **Joseph Ukwenya**, a Backend Developer with 2 years of experienc
 
 I currently specialize in **Node.js**, **Express**, and **JavaScript/TypeScript**. I’m also exploring cloud-based solutions and working on improving my DevOps skills with **Docker**, **CI/CD pipelines**, and exploring microservice architecture.
 
-
-- :mailbox: How to reach me:  
-  [![Linkedin Badge](https://img.shields.io/badge/-josephukwenya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josephukwenya/)
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
